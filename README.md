@@ -1,3 +1,3 @@
-# convertiraMP3
+# convertir .WAV a MP3
 * Convertir archivos .wav a MP3
 Script en bash para cambiar por lotes archivos .wav en .mp3
